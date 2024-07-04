@@ -1,0 +1,25 @@
+#root{
+    height: 100vh;
+    
+}
+
+h1{
+    text-align: center
+}
+form{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#state{
+    height: 2rem;
+    width: 10rem;
+}
+
+.fr{
+    height: 100%;
+}
+

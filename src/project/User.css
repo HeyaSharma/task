@@ -1,0 +1,21 @@
+.main{
+    height: 100vh;
+}
+
+.users{
+    margin-bottom: 5rem;
+}
+#state{
+    height: 2rem;
+    width: 10rem;
+}
+.user{
+    border-radius:0.5rem;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin: 2rem;
+
+}
